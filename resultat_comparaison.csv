@@ -1,0 +1,4 @@
+Protocole;Debit_Mbps;Pertes;TxPackets;RxPackets
+NEWRENO;1.143;9;3449;3404
+CUBIC;1.48663;61;4538;4438
+BBR;1.43794;19;4346;4282
